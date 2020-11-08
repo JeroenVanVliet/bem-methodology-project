@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeroenVanVliet/udemy-natours.git"
+    "url": "git+https://github.com/JeroenVanVliet/bem-methodology-project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JeroenVanVliet/udemy-natours/issues"
+    "url": "https://github.com/JeroenVanVliet/bem-methodology-project/issues"
   },
-  "homepage": "https://github.com/JeroenVanVliet/udemy-natours#readme",
+  "homepage": "https://github.com/JeroenVanVliet/bem-methodology-project#readme",
   "devDependencies": {
     "node-sass": "^4.14.1"
   }
